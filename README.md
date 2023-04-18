@@ -14,8 +14,8 @@ This is a [T3 Stack](https://create.t3.gg/) Todo-List project bootstrapped with 
 
 ### Frontend
 
-- [ ] Login
-- [ ] List Todos
+- [x] Login
+- [x] List Todos
 - [ ] Create Todos
 - [ ] Toggle Todo
 - [ ] Delete Todo
