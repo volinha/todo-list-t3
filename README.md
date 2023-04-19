@@ -17,8 +17,8 @@ This is a [T3 Stack](https://create.t3.gg/) Todo-List project bootstrapped with 
 - [x] Login
 - [x] List Todos
 - [x] Create Todos
-- [ ] Toggle Todo
-- [ ] Delete Todo
+- [x] Toggle Todo
+- [x] Delete Todo
 - [ ] Updates
 
 ## Tools
