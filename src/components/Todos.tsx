@@ -10,7 +10,7 @@ return (
     {
     todos.length
         ? todos.map((todo) => {return <Todo key={todo.id} todo={todo} />;})
-        : "Crie sua primeira tarefa!"
+        : "Create your first todo!"
     }
     </>
 );
