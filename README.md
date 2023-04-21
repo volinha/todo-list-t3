@@ -44,7 +44,7 @@ $ npm run dev
 - [x] Create Todos
 - [x] Toggle Todo
 - [x] Delete Todo
-- [ ] Updates
+- [x] Optimistic Updates
 
 ## 🔧 Tools
 
